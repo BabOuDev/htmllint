@@ -1,10 +1,10 @@
 {
   "name": "htmllint",
-  "version": "0.8.0",
+  "version": "0.7.41",
   "description": "An unofficial html5 linter.",
   "repository": {
     "type": "git",
-    "url": "http://github.com/htmllint/htmllint"
+    "url": "http://github.com/BabOuDev/htmllint"
   },
   "keywords": [
     "html",
